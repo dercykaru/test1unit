@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test1Energy" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-10T19:35:57" hostname="DESKTOP-8E1SS0A" time="0.019">
+  <properties/>
+  <testcase name="testEnergy()" classname="test1Energy" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
